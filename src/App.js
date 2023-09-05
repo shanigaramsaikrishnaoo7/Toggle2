@@ -1,10 +1,8 @@
-import Counter from './Component/Counter'
-
+import Toggle from './Components/Toggle'
 
 const App = () => {
   return(
-    <Counter />
+    <Toggle/>
   )
 }
-
-export default App;
+export default App

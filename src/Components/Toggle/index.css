@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    height: 200px;
+    width: 350px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    margin-left: 450px;
+    margin-top: 200px;
+    padding: 20px;
+}
+.dark-mode{
+    background-color: black;
+}
+.light-mode{
+    background-color: white;
+}
+.l-mode{
+    color: white;
+}
+.d-mode{
+    color: black;
+}
